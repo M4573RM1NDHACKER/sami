@@ -56,9 +56,9 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor MUHAMMED SALMAN
-\033[1;96mInstagram itxsalman007
-\033[1;96mFacebook  juansebastian.lambranosierra
+\033[1;96mAuthor Salman
+\033[1;96mInstagram 
+\033[1;96mFacebook
 \033[1;96mGithub https://github.com/M4573M1NDHACKER
 \033[1;91m======================================="""
 
